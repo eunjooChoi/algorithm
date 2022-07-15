@@ -7,6 +7,8 @@
 
 import Foundation
 
+
+// https://school.programmers.co.kr/learn/courses/30/lessons/92334
 class ReportResult {
     func solution(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
         // 신고자 - 신고한 사람들로 재분류한 딕셔너리
