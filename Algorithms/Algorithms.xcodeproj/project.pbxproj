@@ -10,6 +10,7 @@
 		7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F5C288183CB002CD7B0 /* main.swift */; };
 		7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F632881844B002CD7B0 /* ReportResult.swift */; };
 		7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F662881AADC002CD7B0 /* CraneGame.swift */; };
+		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		7B3A8F5C288183CB002CD7B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7B3A8F632881844B002CD7B0 /* ReportResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportResult.swift; sourceTree = "<group>"; };
 		7B3A8F662881AADC002CD7B0 /* CraneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraneGame.swift; sourceTree = "<group>"; };
+		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			children = (
 				7B3A8F632881844B002CD7B0 /* ReportResult.swift */,
 				7B3A8F662881AADC002CD7B0 /* CraneGame.swift */,
+				7BF708A52883D57900B7F6DD /* StringZip.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
 				7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */,
 				7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */,
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
