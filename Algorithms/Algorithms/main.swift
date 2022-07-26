@@ -15,3 +15,6 @@ print(StringZip().solution("aabbacc"))
 
 // 오픈채팅방
 print(OpenChatRoom().solution(["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]))
+
+// Search Insert Position
+print(SearchInsertPosition().searchInsert([1,3,5,6], 7))

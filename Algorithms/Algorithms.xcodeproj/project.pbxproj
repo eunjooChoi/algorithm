@@ -10,6 +10,7 @@
 		7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F5C288183CB002CD7B0 /* main.swift */; };
 		7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F632881844B002CD7B0 /* ReportResult.swift */; };
 		7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F662881AADC002CD7B0 /* CraneGame.swift */; };
+		7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE6E8D289039E500DD7081 /* SearchInsertPosition.swift */; };
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,7 @@
 		7B3A8F5C288183CB002CD7B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7B3A8F632881844B002CD7B0 /* ReportResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportResult.swift; sourceTree = "<group>"; };
 		7B3A8F662881AADC002CD7B0 /* CraneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraneGame.swift; sourceTree = "<group>"; };
+		7BCE6E8D289039E500DD7081 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -65,6 +67,7 @@
 		7B3A8F5B288183CB002CD7B0 /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
+				7BCE6E8C289039C100DD7081 /* LeetCode */,
 				7B3A8F6528818473002CD7B0 /* Programmers */,
 				7B3A8F5C288183CB002CD7B0 /* main.swift */,
 			);
@@ -80,6 +83,14 @@
 				7BF708A72885189000B7F6DD /* OpenChatRoom.swift */,
 			);
 			path = Programmers;
+			sourceTree = "<group>";
+		};
+		7BCE6E8C289039C100DD7081 /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				7BCE6E8D289039E500DD7081 /* SearchInsertPosition.swift */,
+			);
+			path = LeetCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
+				7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */,
 				7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */,
 				7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */,
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
