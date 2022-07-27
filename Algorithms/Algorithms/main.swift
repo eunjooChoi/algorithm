@@ -18,3 +18,6 @@ print(OpenChatRoom().solution(["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leav
 
 // Search Insert Position
 print(SearchInsertPosition().searchInsert([1,3,5,6], 7))
+
+// Length of Last Word
+print(LengthofLastWord().lengthOfLastWord("   fly me   to   the moon  "))
