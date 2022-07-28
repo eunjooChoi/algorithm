@@ -21,3 +21,6 @@ print(SearchInsertPosition().searchInsert([1,3,5,6], 7))
 
 // Length of Last Word
 print(LengthofLastWord().lengthOfLastWord("   fly me   to   the moon  "))
+
+// Plus One
+print(PlusOne().plusOne([8, 9, 9, 9]))
