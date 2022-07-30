@@ -26,4 +26,7 @@ import Foundation
 //print(PlusOne().plusOne([8, 9, 9, 9]))
 
 // Add Binary
-print(AddBinary().addBinary("101111", "10"))
+//print(AddBinary().addBinary("101111", "10"))
+
+// Sqrt(x)
+print(SqrtX().mySqrt(8))
