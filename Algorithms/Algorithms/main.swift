@@ -29,4 +29,7 @@ import Foundation
 //print(AddBinary().addBinary("101111", "10"))
 
 // Sqrt(x)
-print(SqrtX().mySqrt(8))
+//print(SqrtX().mySqrt(8))
+
+// Climbing Stairs
+print(ClimbingStairs().climbStairs(4))
