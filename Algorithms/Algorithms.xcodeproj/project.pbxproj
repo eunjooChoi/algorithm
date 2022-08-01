@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */; };
 		7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F5C288183CB002CD7B0 /* main.swift */; };
 		7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F632881844B002CD7B0 /* ReportResult.swift */; };
 		7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F662881AADC002CD7B0 /* CraneGame.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesSortedList.swift; sourceTree = "<group>"; };
 		7B3A8F59288183CB002CD7B0 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B3A8F5C288183CB002CD7B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7B3A8F632881844B002CD7B0 /* ReportResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportResult.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				7B74F33F2893B6F50068A964 /* AddBinary.swift */,
 				7B92294B2894FDAA002981C9 /* Sqrt.swift */,
 				7B4F91302896503800090BA1 /* ClimbingStairs.swift */,
+				7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				7B4F91312896503800090BA1 /* ClimbingStairs.swift in Sources */,
 				7B74F3402893B6F50068A964 /* AddBinary.swift in Sources */,
 				7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */,
+				7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */,
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
 				7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */,
 				7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */,

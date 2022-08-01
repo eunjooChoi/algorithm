@@ -32,4 +32,9 @@ import Foundation
 //print(SqrtX().mySqrt(8))
 
 // Climbing Stairs
-print(ClimbingStairs().climbStairs(4))
+//print(ClimbingStairs().climbStairs(4))
+
+// Remove Duplicates from Sorted List
+
+let head = ListNode.init(1, ListNode(1, ListNode(2, ListNode(3, ListNode(3)))))
+print(RemoveDuplicatesSortedList().deleteDuplicates(head))
