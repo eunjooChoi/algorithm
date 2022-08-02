@@ -35,6 +35,10 @@ import Foundation
 //print(ClimbingStairs().climbStairs(4))
 
 // Remove Duplicates from Sorted List
+//let head = ListNode.init(1, ListNode(1, ListNode(2, ListNode(3, ListNode(3)))))
+//print(RemoveDuplicatesSortedList().deleteDuplicates(head))
 
-let head = ListNode.init(1, ListNode(1, ListNode(2, ListNode(3, ListNode(3)))))
-print(RemoveDuplicatesSortedList().deleteDuplicates(head))
+// Merge Sorted Array
+var nums1 = [1, 2, 3, 0 ,0, 0]
+MergeSortedArray().merge(&nums1, 3, [2, 5, 6], 3)
+print(nums1)
