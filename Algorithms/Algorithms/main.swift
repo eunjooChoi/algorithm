@@ -39,6 +39,8 @@ import Foundation
 //print(RemoveDuplicatesSortedList().deleteDuplicates(head))
 
 // Merge Sorted Array
-var nums1 = [1, 2, 3, 0 ,0, 0]
-MergeSortedArray().merge(&nums1, 3, [2, 5, 6], 3)
-print(nums1)
+//var nums1 = [1, 2, 3, 0 ,0, 0]
+//MergeSortedArray().merge(&nums1, 3, [2, 5, 6], 3)
+//print(nums1)
+
+let result = FailurePercent().solution(5, [2, 1, 2, 6, 2, 4, 3, 3])
