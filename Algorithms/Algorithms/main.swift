@@ -43,6 +43,7 @@ import Foundation
 //MergeSortedArray().merge(&nums1, 3, [2, 5, 6], 3)
 //print(nums1)
 
-//let result = FailurePercent().solution(5, [2, 1, 2, 6, 2, 4, 3, 3])
 
-let result = FoodFight().solution([1, 7, 1, 2])
+//let result = FoodFight().solution([1, 7, 1, 2])
+
+let result = Hamburger().solution([1,2,3,1,2,3,1,1,2,3,1,1,2,1,1,2,3,1])
