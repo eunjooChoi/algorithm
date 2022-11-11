@@ -22,6 +22,8 @@
 		7BCE6E902890D14300DD7081 /* LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE6E8F2890D14300DD7081 /* LengthofLastWord.swift */; };
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
+		7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */; };
+		7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +55,8 @@
 		7BCE6E8F2890D14300DD7081 /* LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthofLastWord.swift; sourceTree = "<group>"; };
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
+		7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenAndOdd.swift; sourceTree = "<group>"; };
+		7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumToArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				7BF708A72885189000B7F6DD /* OpenChatRoom.swift */,
 				7B340FFE291A36C000BC300C /* FoodFight.swift */,
 				7B075BF8291B885500118B1D /* Hamburger.swift */,
+				7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */,
+				7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -178,9 +184,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */,
 				7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */,
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
 				7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */,
+				7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */,
 				7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */,
 				7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */,
 				7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */,
