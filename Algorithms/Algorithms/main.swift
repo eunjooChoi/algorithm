@@ -46,4 +46,6 @@ import Foundation
 
 //let result = FoodFight().solution([1, 7, 1, 2])
 
-let result = Hamburger().solution([1,2,3,1,2,3,1,1,2,3,1,1,2,1,1,2,3,1])
+//let result = Hamburger().solution([1,2,3,1,2,3,1,1,2,3,1,1,2,1,1,2,3,1])
+
+let result = TriangleSnail().solution(6)

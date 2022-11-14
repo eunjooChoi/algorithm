@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7B075BF9291B885500118B1D /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B075BF8291B885500118B1D /* Hamburger.swift */; };
 		7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */; };
+		7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B17F37D2922462C0026A635 /* TriangleSnail.swift */; };
 		7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */; };
 		7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B340FFE291A36C000BC300C /* FoodFight.swift */; };
 		7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F5C288183CB002CD7B0 /* main.swift */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		7B075BF8291B885500118B1D /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesSortedList.swift; sourceTree = "<group>"; };
+		7B17F37D2922462C0026A635 /* TriangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleSnail.swift; sourceTree = "<group>"; };
 		7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		7B340FFE291A36C000BC300C /* FoodFight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFight.swift; sourceTree = "<group>"; };
 		7B3A8F59288183CB002CD7B0 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,6 +109,7 @@
 				7B075BF8291B885500118B1D /* Hamburger.swift */,
 				7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */,
 				7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */,
+				7B17F37D2922462C0026A635 /* TriangleSnail.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */,
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
 				7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */,
+				7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */,
 				7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */,
 				7B075BF9291B885500118B1D /* Hamburger.swift in Sources */,
 			);
