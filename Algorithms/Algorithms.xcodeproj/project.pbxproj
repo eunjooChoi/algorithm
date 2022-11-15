@@ -16,6 +16,7 @@
 		7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F632881844B002CD7B0 /* ReportResult.swift */; };
 		7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F662881AADC002CD7B0 /* CraneGame.swift */; };
 		7B4F91312896503800090BA1 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4F91302896503800090BA1 /* ClimbingStairs.swift */; };
+		7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */; };
 		7B74F3402893B6F50068A964 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B74F33F2893B6F50068A964 /* AddBinary.swift */; };
 		7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B92294B2894FDAA002981C9 /* Sqrt.swift */; };
 		7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAA265C28922A0C0081B199 /* PlusOne.swift */; };
@@ -50,6 +51,7 @@
 		7B3A8F632881844B002CD7B0 /* ReportResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportResult.swift; sourceTree = "<group>"; };
 		7B3A8F662881AADC002CD7B0 /* CraneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraneGame.swift; sourceTree = "<group>"; };
 		7B4F91302896503800090BA1 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
+		7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxMinValue.swift; sourceTree = "<group>"; };
 		7B74F33F2893B6F50068A964 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		7B92294B2894FDAA002981C9 /* Sqrt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sqrt.swift; sourceTree = "<group>"; };
 		7BAA265C28922A0C0081B199 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */,
 				7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */,
 				7B17F37D2922462C0026A635 /* TriangleSnail.swift */,
+				7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */,
+				7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */,
 				7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */,
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
 				7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */,
