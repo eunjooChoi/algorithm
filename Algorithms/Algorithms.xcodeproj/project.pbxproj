@@ -10,6 +10,7 @@
 		7B075BF9291B885500118B1D /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B075BF8291B885500118B1D /* Hamburger.swift */; };
 		7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */; };
 		7B14BA842923A68E0089FE11 /* JadenCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B14BA832923A68E0089FE11 /* JadenCase.swift */; };
+		7B151ACA29249380001DF609 /* MakeMinValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B151AC929249380001DF609 /* MakeMinValue.swift */; };
 		7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B17F37D2922462C0026A635 /* TriangleSnail.swift */; };
 		7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */; };
 		7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B340FFE291A36C000BC300C /* FoodFight.swift */; };
@@ -45,6 +46,7 @@
 		7B075BF8291B885500118B1D /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesSortedList.swift; sourceTree = "<group>"; };
 		7B14BA832923A68E0089FE11 /* JadenCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JadenCase.swift; sourceTree = "<group>"; };
+		7B151AC929249380001DF609 /* MakeMinValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeMinValue.swift; sourceTree = "<group>"; };
 		7B17F37D2922462C0026A635 /* TriangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleSnail.swift; sourceTree = "<group>"; };
 		7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		7B340FFE291A36C000BC300C /* FoodFight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFight.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				7B17F37D2922462C0026A635 /* TriangleSnail.swift */,
 				7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */,
 				7B14BA832923A68E0089FE11 /* JadenCase.swift */,
+				7B151AC929249380001DF609 /* MakeMinValue.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */,
 				7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */,
 				7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */,
+				7B151ACA29249380001DF609 /* MakeMinValue.swift in Sources */,
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
 				7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */,
 				7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */,

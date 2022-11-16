@@ -48,4 +48,6 @@ import Foundation
 
 //let result = Hamburger().solution([1,2,3,1,2,3,1,1,2,3,1,1,2,1,1,2,3,1])
 
-let result = TriangleSnail().solution(6)
+//let result = TriangleSnail().solution(6)
+
+let result = MakeMinValue().solution([1,4,2], [5,4,4])
