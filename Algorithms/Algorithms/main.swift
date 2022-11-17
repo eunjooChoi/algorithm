@@ -50,4 +50,6 @@ import Foundation
 
 //let result = TriangleSnail().solution(6)
 
-let result = MakeMinValue().solution([1,4,2], [5,4,4])
+//let result = MakeMinValue().solution([1,4,2], [5,4,4])
+
+let result = RepeatBinaryChange().solution("110010101001")
