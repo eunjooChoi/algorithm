@@ -52,4 +52,6 @@ import Foundation
 
 //let result = MakeMinValue().solution([1,4,2], [5,4,4])
 
-let result = RepeatBinaryChange().solution("110010101001")
+//let result = RepeatBinaryChange().solution("110010101001")
+
+let result = FibonacciNumber().solution(100000)
