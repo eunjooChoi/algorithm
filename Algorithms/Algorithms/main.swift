@@ -54,4 +54,6 @@ import Foundation
 
 //let result = RepeatBinaryChange().solution("110010101001")
 
-let result = FibonacciNumber().solution(100000)
+//let result = FibonacciNumber().solution(100000)
+
+let result = EnglishWordChain().solution(2, ["hello", "one", "even", "never", "now", "world", "draw"])
