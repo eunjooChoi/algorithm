@@ -56,4 +56,6 @@ import Foundation
 
 //let result = FibonacciNumber().solution(100000)
 
-let result = EnglishWordChain().solution(2, ["hello", "one", "even", "never", "now", "world", "draw"])
+//let result = EnglishWordChain().solution(2, ["hello", "one", "even", "never", "now", "world", "draw"])
+
+let result = CardsPakage().solution(["i", "water", "drink"], ["want", "to"], ["i", "want", "to", "drink", "water"])
