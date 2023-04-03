@@ -32,6 +32,7 @@
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
 		7BFE4B8129D6E5DF006E1E2F /* CardsPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */; };
+		7BFE4B8329DB0789006E1E2F /* MemoryScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */; };
 		7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */; };
 		7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */; };
 /* End PBXBuildFile section */
@@ -75,6 +76,7 @@
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
 		7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsPackage.swift; sourceTree = "<group>"; };
+		7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryScore.swift; sourceTree = "<group>"; };
 		7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenAndOdd.swift; sourceTree = "<group>"; };
 		7BFF2DBB291DEC3900EF2C6C /* NumToArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumToArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -137,6 +139,7 @@
 				7B093592292A506F00D6F028 /* EnglishWordChain.swift */,
 				7BBBDB4529D57EE700F890F7 /* PandY.swift */,
 				7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */,
+				7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */,
 				7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */,
 				7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */,
+				7BFE4B8329DB0789006E1E2F /* MemoryScore.swift in Sources */,
 				7B075BF9291B885500118B1D /* Hamburger.swift in Sources */,
 				7B093591292741E100D6F028 /* FibonacciNumber.swift in Sources */,
 			);
