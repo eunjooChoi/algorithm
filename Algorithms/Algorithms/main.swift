@@ -58,4 +58,6 @@ import Foundation
 
 //let result = EnglishWordChain().solution(2, ["hello", "one", "even", "never", "now", "world", "draw"])
 
-let result = CardsPakage().solution(["i", "water", "drink"], ["want", "to"], ["i", "want", "to", "drink", "water"])
+//let result = CardsPakage().solution(["i", "water", "drink"], ["want", "to"], ["i", "want", "to", "drink", "water"])
+
+let result = Painting().solution(8, 4, [2, 3, 6])
