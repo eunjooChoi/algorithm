@@ -17,6 +17,7 @@
 		7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B17F37D2922462C0026A635 /* TriangleSnail.swift */; };
 		7B19413A29266F5D008871A8 /* RepeatBinaryChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B19413929266F5D008871A8 /* RepeatBinaryChange.swift */; };
 		7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */; };
+		7B2D1CE729E92B0900982F95 /* NextBiggerNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */; };
 		7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B340FFE291A36C000BC300C /* FoodFight.swift */; };
 		7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F5C288183CB002CD7B0 /* main.swift */; };
 		7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3A8F632881844B002CD7B0 /* ReportResult.swift */; };
@@ -61,6 +62,7 @@
 		7B17F37D2922462C0026A635 /* TriangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleSnail.swift; sourceTree = "<group>"; };
 		7B19413929266F5D008871A8 /* RepeatBinaryChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatBinaryChange.swift; sourceTree = "<group>"; };
 		7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
+		7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextBiggerNumber.swift; sourceTree = "<group>"; };
 		7B340FFE291A36C000BC300C /* FoodFight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodFight.swift; sourceTree = "<group>"; };
 		7B3A8F59288183CB002CD7B0 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B3A8F5C288183CB002CD7B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */,
 				7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */,
 				7BE3596629DBE39000082D98 /* Painting.swift */,
+				7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */,
 				7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */,
 				7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */,
+				7B2D1CE729E92B0900982F95 /* NextBiggerNumber.swift in Sources */,
 				7BFE4B8329DB0789006E1E2F /* MemoryScore.swift in Sources */,
 				7BE3596729DBE39000082D98 /* Painting.swift in Sources */,
 				7B075BF9291B885500118B1D /* Hamburger.swift in Sources */,

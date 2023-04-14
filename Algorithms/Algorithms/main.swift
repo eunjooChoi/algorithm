@@ -60,4 +60,6 @@ import Foundation
 
 //let result = CardsPakage().solution(["i", "water", "drink"], ["want", "to"], ["i", "want", "to", "drink", "water"])
 
-let result = Painting().solution(8, 4, [2, 3, 6])
+//let result = Painting().solution(8, 4, [2, 3, 6])
+
+let result = NextBiggerNumber().solution(78)
