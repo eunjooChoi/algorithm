@@ -62,4 +62,6 @@ import Foundation
 
 //let result = Painting().solution(8, 4, [2, 3, 6])
 
-let result = NextBiggerNumber().solution(78)
+//let result = NextBiggerNumber().solution(78)
+
+let result = RemovePairString().solution("baabaa")
