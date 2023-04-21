@@ -64,4 +64,6 @@ import Foundation
 
 //let result = NextBiggerNumber().solution(78)
 
-let result = RemovePairString().solution("baabaa")
+//let result = RemovePairString().solution("baabaa")
+
+let result = ValidPalindrome().isPalindrome("0P")
