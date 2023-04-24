@@ -26,6 +26,7 @@
 		7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */; };
 		7B74F3402893B6F50068A964 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B74F33F2893B6F50068A964 /* AddBinary.swift */; };
 		7B90368C29F25FB700A86FEE /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B90368B29F25FB700A86FEE /* ValidPalindrome.swift */; };
+		7B90368E29F6B25B00A86FEE /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B90368D29F6B25B00A86FEE /* SingleNumber.swift */; };
 		7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B92294B2894FDAA002981C9 /* Sqrt.swift */; };
 		7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAA265C28922A0C0081B199 /* PlusOne.swift */; };
 		7BBBDB4629D57EE700F890F7 /* PandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBBDB4529D57EE700F890F7 /* PandY.swift */; };
@@ -74,6 +75,7 @@
 		7B568AFB2923A3E300DBD845 /* MaxMinValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxMinValue.swift; sourceTree = "<group>"; };
 		7B74F33F2893B6F50068A964 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		7B90368B29F25FB700A86FEE /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
+		7B90368D29F6B25B00A86FEE /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		7B92294B2894FDAA002981C9 /* Sqrt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sqrt.swift; sourceTree = "<group>"; };
 		7BAA265C28922A0C0081B199 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		7BBBDB4529D57EE700F890F7 /* PandY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandY.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				7B1429F328977C69007EC672 /* RemoveDuplicatesSortedList.swift */,
 				7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */,
 				7B90368B29F25FB700A86FEE /* ValidPalindrome.swift */,
+				7B90368D29F6B25B00A86FEE /* SingleNumber.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				7B2D1CE729E92B0900982F95 /* NextBiggerNumber.swift in Sources */,
 				7BFE4B8329DB0789006E1E2F /* MemoryScore.swift in Sources */,
 				7BE3596729DBE39000082D98 /* Painting.swift in Sources */,
+				7B90368E29F6B25B00A86FEE /* SingleNumber.swift in Sources */,
 				7B075BF9291B885500118B1D /* Hamburger.swift in Sources */,
 				7B093591292741E100D6F028 /* FibonacciNumber.swift in Sources */,
 			);
