@@ -66,4 +66,6 @@ import Foundation
 
 //let result = RemovePairString().solution("baabaa")
 
-let result = ValidPalindrome().isPalindrome("0P")
+//let result = ValidPalindrome().isPalindrome("0P")
+
+let result = RunningRace().solution(["mumu", "soe", "poe", "kai", "mine"], ["soe", "kai", "kai", "mine", "mine"])

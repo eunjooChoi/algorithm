@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B042B8929FA38240076CB52 /* RunningRace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B042B8829FA38240076CB52 /* RunningRace.swift */; };
 		7B075BF9291B885500118B1D /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B075BF8291B885500118B1D /* Hamburger.swift */; };
 		7B093591292741E100D6F028 /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B093590292741E100D6F028 /* FibonacciNumber.swift */; };
 		7B093593292A506F00D6F028 /* EnglishWordChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B093592292A506F00D6F028 /* EnglishWordChain.swift */; };
@@ -55,6 +56,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7B042B8829FA38240076CB52 /* RunningRace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningRace.swift; sourceTree = "<group>"; };
 		7B075BF8291B885500118B1D /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		7B093590292741E100D6F028 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		7B093592292A506F00D6F028 /* EnglishWordChain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishWordChain.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				7BE3596629DBE39000082D98 /* Painting.swift */,
 				7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */,
 				7BE627FA29EA5D9E00D2890D /* RemovePairString.swift */,
+				7B042B8829FA38240076CB52 /* RunningRace.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
 				7B151ACC29249682001DF609 /* CorrectParentheses.swift in Sources */,
 				7B093593292A506F00D6F028 /* EnglishWordChain.swift in Sources */,
+				7B042B8929FA38240076CB52 /* RunningRace.swift in Sources */,
 				7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */,
 				7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */,
 				7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */,
