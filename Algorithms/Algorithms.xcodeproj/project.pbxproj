@@ -38,6 +38,7 @@
 		7BCE6E902890D14300DD7081 /* LengthofLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE6E8F2890D14300DD7081 /* LengthofLastWord.swift */; };
 		7BE3596729DBE39000082D98 /* Painting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE3596629DBE39000082D98 /* Painting.swift */; };
 		7BE627FB29EA5D9E00D2890D /* RemovePairString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE627FA29EA5D9E00D2890D /* RemovePairString.swift */; };
+		7BE633AA2C1C0E3400882537 /* StrangeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE633A92C1C0E3400882537 /* StrangeWords.swift */; };
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
 		7BFE4B8129D6E5DF006E1E2F /* CardsPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */; };
@@ -91,6 +92,7 @@
 		7BCE6E8F2890D14300DD7081 /* LengthofLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthofLastWord.swift; sourceTree = "<group>"; };
 		7BE3596629DBE39000082D98 /* Painting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Painting.swift; sourceTree = "<group>"; };
 		7BE627FA29EA5D9E00D2890D /* RemovePairString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovePairString.swift; sourceTree = "<group>"; };
+		7BE633A92C1C0E3400882537 /* StrangeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangeWords.swift; sourceTree = "<group>"; };
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
 		7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsPackage.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				7B042B8829FA38240076CB52 /* RunningRace.swift */,
 				7B8813092BF5E7AF00EDD820 /* NearestCharacter.swift */,
 				7B16CF662C1AF00800E63A68 /* RemainOne.swift */,
+				7BE633A92C1C0E3400882537 /* StrangeWords.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				7B3A8F672881AADC002CD7B0 /* CraneGame.swift in Sources */,
 				7BBBDB4629D57EE700F890F7 /* PandY.swift in Sources */,
 				7B26327929FA528C00E466C9 /* MinWindowSubstring.swift in Sources */,
+				7BE633AA2C1C0E3400882537 /* StrangeWords.swift in Sources */,
 				7B1429F428977C69007EC672 /* RemoveDuplicatesSortedList.swift in Sources */,
 				7B3A8F642881844B002CD7B0 /* ReportResult.swift in Sources */,
 				7B151ACC29249682001DF609 /* CorrectParentheses.swift in Sources */,
