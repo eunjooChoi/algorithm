@@ -39,6 +39,7 @@
 		7BE3596729DBE39000082D98 /* Painting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE3596629DBE39000082D98 /* Painting.swift */; };
 		7BE627FB29EA5D9E00D2890D /* RemovePairString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE627FA29EA5D9E00D2890D /* RemovePairString.swift */; };
 		7BE633AA2C1C0E3400882537 /* StrangeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE633A92C1C0E3400882537 /* StrangeWords.swift */; };
+		7BE633AC2C1D485500882537 /* ClapWatermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE633AB2C1D485500882537 /* ClapWatermelon.swift */; };
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
 		7BFE4B8129D6E5DF006E1E2F /* CardsPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */; };
@@ -93,6 +94,7 @@
 		7BE3596629DBE39000082D98 /* Painting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Painting.swift; sourceTree = "<group>"; };
 		7BE627FA29EA5D9E00D2890D /* RemovePairString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovePairString.swift; sourceTree = "<group>"; };
 		7BE633A92C1C0E3400882537 /* StrangeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangeWords.swift; sourceTree = "<group>"; };
+		7BE633AB2C1D485500882537 /* ClapWatermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClapWatermelon.swift; sourceTree = "<group>"; };
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
 		7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsPackage.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				7B8813092BF5E7AF00EDD820 /* NearestCharacter.swift */,
 				7B16CF662C1AF00800E63A68 /* RemainOne.swift */,
 				7BE633A92C1C0E3400882537 /* StrangeWords.swift */,
+				7BE633AB2C1D485500882537 /* ClapWatermelon.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				7B151ACA29249380001DF609 /* MakeMinValue.swift in Sources */,
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,
 				7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */,
+				7BE633AC2C1D485500882537 /* ClapWatermelon.swift in Sources */,
 				7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */,
 				7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */,
 				7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */,
