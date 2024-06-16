@@ -70,4 +70,6 @@ import Foundation
 
 //let result = RunningRace().solution(["mumu", "soe", "poe", "kai", "mine"], ["soe", "kai", "kai", "mine", "mine"])
 
-let result = NearestCharacter().solution("banana")
+//let result = NearestCharacter().solution("banana")
+
+let result = KnightsWeapon().solution(5, 2, 2)
