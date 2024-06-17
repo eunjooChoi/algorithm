@@ -33,6 +33,7 @@
 		7B90368C29F25FB700A86FEE /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B90368B29F25FB700A86FEE /* ValidPalindrome.swift */; };
 		7B90368E29F6B25B00A86FEE /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B90368D29F6B25B00A86FEE /* SingleNumber.swift */; };
 		7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B92294B2894FDAA002981C9 /* Sqrt.swift */; };
+		7BA580952C20452F00331C23 /* FindPrimeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA580942C20452F00331C23 /* FindPrimeNumbers.swift */; };
 		7BAA265D28922A0C0081B199 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAA265C28922A0C0081B199 /* PlusOne.swift */; };
 		7BBBDB4629D57EE700F890F7 /* PandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBBDB4529D57EE700F890F7 /* PandY.swift */; };
 		7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BCE6E8D289039E500DD7081 /* SearchInsertPosition.swift */; };
@@ -89,6 +90,7 @@
 		7B90368B29F25FB700A86FEE /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		7B90368D29F6B25B00A86FEE /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		7B92294B2894FDAA002981C9 /* Sqrt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sqrt.swift; sourceTree = "<group>"; };
+		7BA580942C20452F00331C23 /* FindPrimeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPrimeNumbers.swift; sourceTree = "<group>"; };
 		7BAA265C28922A0C0081B199 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		7BBBDB4529D57EE700F890F7 /* PandY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PandY.swift; sourceTree = "<group>"; };
 		7BCE6E8D289039E500DD7081 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				7BE633A92C1C0E3400882537 /* StrangeWords.swift */,
 				7BE633AB2C1D485500882537 /* ClapWatermelon.swift */,
 				7B6DF1662C1EA8AD004D3D1E /* KnightsWeapon.swift */,
+				7BA580942C20452F00331C23 /* FindPrimeNumbers.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */,
 				7B92294C2894FDAA002981C9 /* Sqrt.swift in Sources */,
 				7BCE6E8E289039E500DD7081 /* SearchInsertPosition.swift in Sources */,
+				7BA580952C20452F00331C23 /* FindPrimeNumbers.swift in Sources */,
 				7B90368C29F25FB700A86FEE /* ValidPalindrome.swift in Sources */,
 				7BFE4B8129D6E5DF006E1E2F /* CardsPackage.swift in Sources */,
 				7B3A8F5D288183CB002CD7B0 /* main.swift in Sources */,

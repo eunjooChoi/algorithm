@@ -72,4 +72,6 @@ import Foundation
 
 //let result = NearestCharacter().solution("banana")
 
-let result = KnightsWeapon().solution(5, 2, 2)
+//let result = KnightsWeapon().solution(5, 2, 2)
+
+let result = FindPrimeNumbers().solution(10)
