@@ -44,6 +44,7 @@
 		7BE633AC2C1D485500882537 /* ClapWatermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE633AB2C1D485500882537 /* ClapWatermelon.swift */; };
 		7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A52883D57900B7F6DD /* StringZip.swift */; };
 		7BF708A82885189000B7F6DD /* OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF708A72885189000B7F6DD /* OpenChatRoom.swift */; };
+		7BFBA6D12C21595D00E2C520 /* TargetNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFBA6D02C21595D00E2C520 /* TargetNumber.swift */; };
 		7BFE4B8129D6E5DF006E1E2F /* CardsPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */; };
 		7BFE4B8329DB0789006E1E2F /* MemoryScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */; };
 		7BFF2DBA291DEBCB00EF2C6C /* EvenAndOdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */; };
@@ -101,6 +102,7 @@
 		7BE633AB2C1D485500882537 /* ClapWatermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClapWatermelon.swift; sourceTree = "<group>"; };
 		7BF708A52883D57900B7F6DD /* StringZip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringZip.swift; sourceTree = "<group>"; };
 		7BF708A72885189000B7F6DD /* OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenChatRoom.swift; sourceTree = "<group>"; };
+		7BFBA6D02C21595D00E2C520 /* TargetNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetNumber.swift; sourceTree = "<group>"; };
 		7BFE4B8029D6E5DF006E1E2F /* CardsPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsPackage.swift; sourceTree = "<group>"; };
 		7BFE4B8229DB0789006E1E2F /* MemoryScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryScore.swift; sourceTree = "<group>"; };
 		7BFF2DB9291DEBCB00EF2C6C /* EvenAndOdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenAndOdd.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				7BE633AB2C1D485500882537 /* ClapWatermelon.swift */,
 				7B6DF1662C1EA8AD004D3D1E /* KnightsWeapon.swift */,
 				7BA580942C20452F00331C23 /* FindPrimeNumbers.swift */,
+				7BFBA6D02C21595D00E2C520 /* TargetNumber.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				7B6DF1672C1EA8AD004D3D1E /* KnightsWeapon.swift in Sources */,
 				7B88130A2BF5E7AF00EDD820 /* NearestCharacter.swift in Sources */,
 				7B14BA842923A68E0089FE11 /* JadenCase.swift in Sources */,
+				7BFBA6D12C21595D00E2C520 /* TargetNumber.swift in Sources */,
 				7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */,
 				7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */,
 				7BE627FB29EA5D9E00D2890D /* RemovePairString.swift in Sources */,
