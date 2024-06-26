@@ -74,4 +74,6 @@ import Foundation
 
 //let result = KnightsWeapon().solution(5, 2, 2)
 
-let result = FindPrimeNumbers().solution(10)
+//let result = FindPrimeNumbers().solution(10)
+
+let result = Process().solution([1, 1, 9, 1, 1, 1], 0)
