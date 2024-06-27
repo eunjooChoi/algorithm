@@ -18,6 +18,7 @@
 		7B16CF672C1AF00800E63A68 /* RemainOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B16CF662C1AF00800E63A68 /* RemainOne.swift */; };
 		7B17F37E2922462C0026A635 /* TriangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B17F37D2922462C0026A635 /* TriangleSnail.swift */; };
 		7B19413A29266F5D008871A8 /* RepeatBinaryChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B19413929266F5D008871A8 /* RepeatBinaryChange.swift */; };
+		7B1A45572C2DA796006D396E /* Fatigue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1A45562C2DA796006D396E /* Fatigue.swift */; };
 		7B2318AC2898C7EC006D8FBD /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */; };
 		7B26327929FA528C00E466C9 /* MinWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B26327829FA528C00E466C9 /* MinWindowSubstring.swift */; };
 		7B2D1CE729E92B0900982F95 /* NextBiggerNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */; };
@@ -78,6 +79,7 @@
 		7B16CF662C1AF00800E63A68 /* RemainOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemainOne.swift; sourceTree = "<group>"; };
 		7B17F37D2922462C0026A635 /* TriangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleSnail.swift; sourceTree = "<group>"; };
 		7B19413929266F5D008871A8 /* RepeatBinaryChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatBinaryChange.swift; sourceTree = "<group>"; };
+		7B1A45562C2DA796006D396E /* Fatigue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fatigue.swift; sourceTree = "<group>"; };
 		7B2318AB2898C7EC006D8FBD /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		7B26327829FA528C00E466C9 /* MinWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinWindowSubstring.swift; sourceTree = "<group>"; };
 		7B2D1CE629E92B0900982F95 /* NextBiggerNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextBiggerNumber.swift; sourceTree = "<group>"; };
@@ -197,6 +199,7 @@
 				7B74C3972C22B63C00A8F905 /* AddTwoNumbers.swift */,
 				7B6AE18C2C293AC100F01B89 /* Cache.swift */,
 				7B55532B2C2AAE6E00842E90 /* Process.swift */,
+				7B1A45562C2DA796006D396E /* Fatigue.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				7BFF2DBC291DEC3900EF2C6C /* NumToArray.swift in Sources */,
 				7B568AFC2923A3E300DBD845 /* MaxMinValue.swift in Sources */,
 				7BE627FB29EA5D9E00D2890D /* RemovePairString.swift in Sources */,
+				7B1A45572C2DA796006D396E /* Fatigue.swift in Sources */,
 				7B340FFF291A36C000BC300C /* FoodFight.swift in Sources */,
 				7B151ACA29249380001DF609 /* MakeMinValue.swift in Sources */,
 				7BF708A62883D57900B7F6DD /* StringZip.swift in Sources */,

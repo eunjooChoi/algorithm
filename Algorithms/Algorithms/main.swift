@@ -76,4 +76,6 @@ import Foundation
 
 //let result = FindPrimeNumbers().solution(10)
 
-let result = Process().solution([1, 1, 9, 1, 1, 1], 0)
+// let result = Process().solution([1, 1, 9, 1, 1, 1], 0)
+
+let result = Fatigue().solution(80, [[80, 20], [50, 40], [30, 10]])
